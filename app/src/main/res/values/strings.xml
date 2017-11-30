@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Karkas</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash">Заставка</string>
+    <string name="main">Главный экран</string>
+    <string name="about">О программе</string>
+</resources>
