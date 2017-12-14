@@ -4,4 +4,5 @@
     <string name="splash">Заставка</string>
     <string name="main">Главный экран</string>
     <string name="about">О программе</string>
+    <string name="min_data">01/01/2017</string>
 </resources>
